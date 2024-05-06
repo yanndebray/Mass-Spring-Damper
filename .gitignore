@@ -40,3 +40,5 @@ results/
 
 # Digital thread
 derived/
+
+.ipynb_checkpoints/
